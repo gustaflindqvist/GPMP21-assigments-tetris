@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Gustaf_Start.unity
+    guid: 0ebe3f9195513497cb78d8506304c459
+  - enabled: 1
+    path: Assets/Scenes/Gustaf_Hud.unity
+    guid: f38d94c2c9e37e641a9f3e14bd2548cf
+  - enabled: 1
+    path: Assets/Scenes/Gustaf_Debug.unity
+    guid: c4f091bf1af3640fe8fb8850be2dc547
+  - enabled: 1
+    path: Assets/Scenes/Gustaf_Level1.unity
+    guid: c836e9e414db52e4a86774f7bf368916
+  - enabled: 1
+    path: Assets/Scenes/Gustaf_Menu.unity
+    guid: 0ea54155547dd46028679bf9fd254d4a
+  m_configObjects: {}
