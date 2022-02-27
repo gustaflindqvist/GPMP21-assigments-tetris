@@ -1,4 +1,3 @@
-using Gustaf.Scripts.Managers;
 using Managers;
 using UnityEngine;
 using UnityEngine.EventSystems;

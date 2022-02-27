@@ -1,11 +1,9 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
-using Managers;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Gustaf.Scripts.Managers
+namespace Managers
 {
     public class LoadManager : MonoBehaviour
     {

@@ -1,5 +1,4 @@
 using System;
-using Gustaf.Scripts.Managers;
 using UnityEngine;
 
 public class GameCamera : MonoBehaviour

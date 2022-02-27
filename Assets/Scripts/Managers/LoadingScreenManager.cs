@@ -1,9 +1,9 @@
 using UnityEngine;
 
-namespace Gustaf.Scripts.Managers
+namespace Managers
 {
     public class LoadingScreenManager : MonoBehaviour
     {
-        
+
     }
 }

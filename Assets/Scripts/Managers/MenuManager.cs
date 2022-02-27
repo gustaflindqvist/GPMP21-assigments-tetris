@@ -1,16 +1,14 @@
-using System;
 using System.Collections;
-using Managers;
 using UnityEngine;
 
-namespace Gustaf.Scripts.Managers
+namespace Managers
 {
     public class MenuManager : MonoBehaviour
     {
         public static MenuManager Instance;
 
         [SerializeField] private RectTransform optionsMenu;
-        private bool _isButtonToggle;
+        private bool IsButtonToggle;
         private void Awake()
         {
             Cursor.lockState = CursorLockMode.None;
@@ -42,7 +40,7 @@ namespace Gustaf.Scripts.Managers
 
         public void ToggleAudioButton()
         {
-            GameManager.Instance.EnableAudio = !_isButtonToggle;
+            GameManager.Instance.EnableAudio = !IsButtonToggle;
         }
 
         public void ExitButton()

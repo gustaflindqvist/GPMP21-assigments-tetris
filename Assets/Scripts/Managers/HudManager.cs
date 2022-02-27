@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Globalization;
-using Gustaf.Scripts.Managers;
 using Hud;
 using TMPro;
 using UnityEngine;
